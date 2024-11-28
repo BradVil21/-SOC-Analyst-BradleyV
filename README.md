@@ -32,6 +32,7 @@ In this project, I leverage the Let's Defend SOC platform to simulate and analyz
   </ul>
   To view: Install .docx <b></b><a href="">Phishing Email Detection</a></b>
 </div>
+<br>
 <b>Summary:</b>
 
 
