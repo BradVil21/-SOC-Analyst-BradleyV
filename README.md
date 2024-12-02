@@ -33,7 +33,8 @@ In this project, I leverage the Let's Defend SOC platform to simulate and analyz
   To view: Install .docx <b></b><a href="">Phishing Email Detection</a></b>
 </div>
 <br>
-<b>Summary:</b>
+<b>Summary:</b> 
+As a result of the sandbox analysis of the excel file attached to the e-mail, it is seen that it is harmful. In the sandbox analysis, c2 addresses are obtained. When c2 addresses are searched through log management, it is seen that there is access, therefore it is understood that the malicious excel file is run. When the source address is determined on Log Management and searched on Endpoint Management, it is observed that it is a LarsPRD device. When the Browser History and Network Connections of the LarsPRD device are examined, it has been clarified that the LarsPRD device communicates with malicious addresses. When LarsPRD's CMD History is examined, it is observed that the regsvr32 command, which is included in Excel 4.0 macros, is run. <b>This alert was closed as a True Positive.</b>
 
 
 
