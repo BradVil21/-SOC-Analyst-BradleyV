@@ -49,7 +49,7 @@ This project my work on implementing a phishing alert detection system using the
     <li>What is the User Agent?</li>
     <li>Is the request blocked?</li>
   </ul>
-  To view: Head over to this repository<b></b><a href="https://github.com/BradVil21/LetsDefend-Phishing-Detection/tree/main">Phishing URL Detection</a></b>
+  To view: Head over to this repository <b></b><a href="https://github.com/BradVil21/LetsDefend-Phishing-Detection/tree/main">Phishing URL Detection</a></b>
 </div>
 <br>
 <b>Summary:</b> 
