@@ -55,6 +55,24 @@ This project my work on implementing a phishing alert detection system using the
 <b>Summary:</b> 
 After thoroughly investigating the alert, I discovered that the user, identified as "Ellie" under the account "EmilyComp," had accessed several suspicious links. To ensure a comprehensive analysis, I conducted due diligence by inputting the provided links into third-party URL detection tools. These tools confirmed that each link was associated with malicious activity, specifically categorizing them as either malware or phishing URLs. As a result of this confirmation, I took immediate action to contain the affected device and prevent any further security threats. I then escalated the alert, classifying it as a true positive, meaning that it was a legitimate security threat. <b>This alert was closed as a True Positive.</b><br>
 
+# SQL Injection Analysis 💽
+<b>Project Description:</b>
+This project aims to analyze, detect, and prevent SQL injection attacks within web applications. By integrating detection mechanisms into an existing web environment, we can monitor for suspicious SQL injection activity, log attacks in real time, and implement preventive measures to safeguard sensitive data. The primary goal is to recognize potential SQL injection attacks as early as possible, allowing for swift remediation.
+<div>
+  <b>Objectives:</b>
+  <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+  </ul>
+  To view: Head over to this repository
+</div>
+<br>
+  <b>Summary:</b> 
+      
+
 
 
 
