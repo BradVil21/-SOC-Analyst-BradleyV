@@ -55,17 +55,17 @@ This project my work on implementing a phishing alert detection system using the
 <b>Summary:</b> 
 After thoroughly investigating the alert, I discovered that the user, identified as "Ellie" under the account "EmilyComp," had accessed several suspicious links. To ensure a comprehensive analysis, I conducted due diligence by inputting the provided links into third-party URL detection tools. These tools confirmed that each link was associated with malicious activity, specifically categorizing them as either malware or phishing URLs. As a result of this confirmation, I took immediate action to contain the affected device and prevent any further security threats. I then escalated the alert, classifying it as a true positive, meaning that it was a legitimate security threat. <b>This alert was closed as a True Positive.</b><br>
 
-# SQL Injection Analysis 💽
+# Detecting Web Attacks Analysis 💽
 <b>Project Description:</b>
-This project aims to analyze, detect, and prevent SQL injection attacks within web applications. By integrating detection mechanisms into an existing web environment, we can monitor for suspicious SQL injection activity, log attacks in real time, and implement preventive measures to safeguard sensitive data. The primary goal is to recognize potential SQL injection attacks as early as possible, allowing for swift remediation.
+This project leverages LetsDefend, a SOC analyst training platform, to analyze, detect, and prevent various web application vulnerabilities, including SQL Injection, Cross-Site Scripting (XSS), Command Injection, Insecure Direct Object References (IDOR), and Remote/Local File Inclusion (RFI/LFI). Using LetsDefend’s simulated SOC environment, the project focuses on integrating detection mechanisms, monitoring suspicious activities, and logging attacks in real-time while implementing proactive preventive measures.
 <div>
   <b>Objectives:</b>
   <ul>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li><b>SQL Injection Detection:</b> Identify and mitigate malicious SQL queries targeting database exploitation.</li>
+    <li><b>Cross-Site Scripting (XSS):</b>  Detect and block script injections designed to steal sensitive information or hijack user sessions.</li>
+    <li><b>Command Injection:</b>  Monitor and prevent unauthorized system commands that aim to exploit backend servers.</li>
+    <li><b>Insecure Direct Object References (IDOR):</b>  Ensure robust validation to prevent unauthorized access to sensitive resources.</li>
+    <li><b>Remote/Local File Inclusion (RFI/LFI):</b>  Detect and halt attempts to include unauthorized files that could lead to system compromise.</li>
   </ul>
   To view: Head over to this repository
 </div>
