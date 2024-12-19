@@ -61,13 +61,15 @@ This project leverages LetsDefend, a SOC analyst training platform, to analyze, 
 <div>
   <b>Objectives:</b>
   <ul>
-    <li><b>SQL Injection Detection:</b> Identify and mitigate malicious SQL queries targeting database exploitation.</li>
+    <li><b>SQL Injection Detection:</b> Identify and mitigate malicious SQL queries targeting database exploitation.</li><br>
     <li><b>Cross-Site Scripting (XSS):</b>  Detect and block script injections designed to steal sensitive information or hijack user sessions.</li>
     <li><b>Command Injection:</b>  Monitor and prevent unauthorized system commands that aim to exploit backend servers.</li>
     <li><b>Insecure Direct Object References (IDOR):</b>  Ensure robust validation to prevent unauthorized access to sensitive resources.</li>
     <li><b>Remote/Local File Inclusion (RFI/LFI):</b>  Detect and halt attempts to include unauthorized files that could lead to system compromise.</li>
   </ul>
-  To view: Head over to this repository
+  To view: choose your repository
+  <br>
+  <b>SQL Injection:</b> <a href="https://github.com/BradVil21/SQL-Injection">View Investigation</a>
 </div>
 <br>
   <b>Summary:</b> 
