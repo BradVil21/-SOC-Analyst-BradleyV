@@ -70,6 +70,7 @@ This project leverages LetsDefend, a SOC analyst training platform, to analyze, 
   To view: choose your repository
   <br>
   <b>SQL Injection:</b> <a href="https://github.com/BradVil21/SQL-Injection">View Investigation</a>
+  <br>
   <b>XSS Injection:</b> <a href="">Link Coming Soon</a>
 </div>
 <br>
