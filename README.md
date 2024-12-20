@@ -1,4 +1,4 @@
-# SOC Analyst 🔎
+# SOC Analyst Projects🔎
 
 [Introduction: This GitHub repository is a collection of hands-on projects that showcase my skills and experience in <b>Security Operations Center (SOC)</b> analysis. These projects are designed to reflect real-world scenarios and demonstrate the technical and analytical expertise required to succeed as a <b>SOC Analyst</b>].
 
