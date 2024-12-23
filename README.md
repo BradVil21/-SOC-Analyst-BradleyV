@@ -73,7 +73,7 @@ This project leverages LetsDefend, a SOC analyst training platform, to analyze, 
   <br>
   <b>XSS Injection:</b> <a href="https://github.com/BradVil21/XSS-Injection">View Investigation</a>
    <br>
-  <b>Command Injection:</b> <a href="https://www.linkedin.com/posts/bradley-vilsaint-414329267_cybersecurity-socanalyst-letsdefend-activity-7276779686653820928-HWYt?utm_source=share&utm_medium=member_desktop">View Investigation</a>
+  <b>Command Injection:</b> <a href="">View Investigation</a>
    <br>
   <b>IDOR Attack:</b> <a href="">View Investigation</a>
 </div>
