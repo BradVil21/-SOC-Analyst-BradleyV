@@ -53,7 +53,7 @@ This project my work on implementing a phishing alert detection system using the
 </div>
 <br>
 <b>Summary:</b> 
-After thoroughly investigating the alert, I discovered that the user, identified as "Ellie" under the account "EmilyComp," had accessed several suspicious links. To ensure a comprehensive analysis, I conducted due diligence by inputting the provided links into third-party URL detection tools. These tools confirmed that each link was associated with malicious activity, specifically categorizing them as either malware or phishing URLs. As a result of this confirmation, I took immediate action to contain the affected device and prevent any further security threats. I then escalated the alert, classifying it as a true positive, meaning that it was a legitimate security threat. <b>This alert was closed as a True Positive.</b><br>
+After thoroughly investigating the alert, I discovered that the user, identified as "Ellie" under the account "EmilyComp," had accessed several suspicious links. I conducted due diligence to ensure a comprehensive analysis by inputting the provided links into third-party URL detection tools. These tools confirmed that each link was associated with malicious activity, specifically categorizing them as either malware or phishing URLs. As a result of this confirmation, I took immediate action to contain the affected device and prevent any further security threats. I then escalated the alert, classifying it as a true positive, meaning that it was a legitimate security threat. <b>This alert was closed as a True Positive.</b><br>
 
 # Detecting Web Attacks Analysis 💽
 <b>Project Description:</b>
@@ -72,6 +72,8 @@ This project leverages LetsDefend, a SOC analyst training platform, to analyze, 
   <b>SQL Injection:</b> <a href="https://github.com/BradVil21/SQL-Injection">View Investigation</a>
   <br>
   <b>XSS Injection:</b> <a href="https://github.com/BradVil21/XSS-Injection">View Investigation</a>
+   <br>
+  <b>Command Injection:</b> <a href="">View Investigation</a>
 </div>
 <br>
   <b>Summary:</b> 
